@@ -30,7 +30,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Store Manager', },
-  { year: 2019, text: 'Worked as Cabling operator', },
-  { year: 2020, text: 'Full-Stack Web Developer', },
+  { year: 2018, text: 'Store Manager | Malak Transmision ', },
+  { year: 2019, text: 'Worked as Cabling operator | Leoni ', },
+  { year: 2020, text: 'Full-Stack Web Developer | Youcode', },
 ];
