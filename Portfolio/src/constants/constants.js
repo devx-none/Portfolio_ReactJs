@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'REACT SIMPLE PORTFOLIO    ',
     description: "",
-      image: '/images/2.png',
+      image: '/images/3.jpg',
       tags: ['NodeJs','nextJs', 'ExpressJS', 'ReactJs'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'PROMOTION MANAGEMENT',
     description: "Make application promotion management.",
-      image: '/images/3.jpg',
+      image: '/images/2.png',
       tags: ['MySql', 'ExpressJS', 'NodeJs','TailwindCss'],
     source: 'https://google.com',
     visit: 'https://google.com',

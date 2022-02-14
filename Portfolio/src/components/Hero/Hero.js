@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         A Full-Stack Web Developer  .I like to build things for web and solving problems.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>
   </>
